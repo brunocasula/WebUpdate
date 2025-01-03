@@ -17,7 +17,7 @@ file=C:\Bruno.Casula\Projetos\11 - RES-5913 - PriceOfferTrader\Componentes\Demos
 count=1
 
 [file1]
-url=https://upnow-prod.ff45e40d1a1c8f7e7de4e976d0c9e555.r2.cloudflarestorage.com/L0AoQEpDpmgOhXInMN8I18HB6Gh1/39cb22b7-9c0b-47a8-8787-eb684009155f?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=cdd12e35bbd220303957dc5603a4cc8e/20250103/auto/s3/aws4_request&X-Amz-Date=20250103T193821Z&X-Amz-Expires=43200&X-Amz-Signature=1d14ca4e3b67bd566a53552d804116f3984d9b02e896ff179582363c5c01595a&X-Amz-SignedHeaders=host&response-content-disposition=attachment; filename="WebUpdateFileDemo.exe"
+url=https://raw.githubusercontent.com/brunocasula/WebUpdate/refs/heads/main/WebUpdateFileDemo.exe
 
 [application]
 appupdate=1
