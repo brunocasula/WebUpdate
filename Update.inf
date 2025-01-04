@@ -12,7 +12,7 @@ count=1
 
 [file1]
 url=https://raw.githubusercontent.com/brunocasula/WebUpdate/refs/heads/main/WebUpdateFileDemo.exe
-TargetDir=.\Update\
+targetdir=.\Update\
 
 [application]
 appupdate=1
