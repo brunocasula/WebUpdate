@@ -5,7 +5,7 @@ date=2/6/2028
 msg=This is a file based update
 
 [whatsnew]
-file=c:\newapp\whatsnew.txt
+file=https://wiki.minervafoods.com/xwiki/bin/view/Tecnologia/Sistemas Internos/Dux/Adm. Produção/Choice/Histórico de Versão/202210261/
 
 [files]
 count=1
