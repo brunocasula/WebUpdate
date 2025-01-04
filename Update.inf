@@ -16,5 +16,5 @@ url=https://raw.githubusercontent.com/brunocasula/WebUpdate/refs/heads/main/WebU
 [application]
 appupdate=1
 appname=WebUpdateFileDemo.exe
-appcomps=WebUpdateFileDemo.exe_new
+appcomps=WebUpdateFileDemo.exe
 
