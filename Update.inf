@@ -8,10 +8,16 @@ msg=This is a file based update
 file=https://wiki.minervafoods.com/xwiki/bin/view/Tecnologia/Sistemas Internos/Dux/Adm. Produção/Choice/Histórico de Versão/202210261/
 
 [files]
-count=1
+count=2
 
 [file1]
 url=https://raw.githubusercontent.com/brunocasula/WebUpdate/refs/heads/main/WebUpdateFileDemo.exe
+descr=Application
+targetdir={TMP}
+
+[file2]
+url=https://raw.githubusercontent.com/brunocasula/WebUpdate/refs/heads/main/PriceOfferTrader.exe
+descr=Application PriceOfferTrader
 targetdir={TMP}
 
 [application]
