@@ -1,17 +1,11 @@
 [update]
 date=2/6/2028
 
-[action_OLD]
-updateURL=http://yourserver/update.inf
-query=This is the update version 1.5.0.0 Continue ?
-showURL=http://www.yourserver.com/updates/doc.htm
+[action]
 msg=This is a file based update
-htmldlg=http://www.yourserver.com/updates/dialog.htm
-runbefore=
-runbeforeparam=
 
-[whatsnew_OLD]
-file=C:\Bruno.Casula\Projetos\11 - RES-5913 - PriceOfferTrader\Componentes\Demos\WebUpdate\File\NewApp\whatsnew.txt
+[whatsnew]
+file=c:\newapp\whatsnew.txt
 
 [files]
 count=1
@@ -21,7 +15,6 @@ url=https://raw.githubusercontent.com/brunocasula/WebUpdate/refs/heads/main/WebU
 
 [application]
 appupdate=1
-silentrestart=1
 appname=WebUpdateFileDemo.exe
-appcomps=WebUpdateFileDemo.exe_
+appcomps=WebUpdateFileDemo.exe_new
 
