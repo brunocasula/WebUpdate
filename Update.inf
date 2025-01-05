@@ -14,7 +14,7 @@ count=2
 [file1]
 url=https://raw.githubusercontent.com/brunocasula/WebUpdate/refs/heads/main/WebUpdateFileDemo.exe
 descr=Application
-targetdir={APP}
+targetdir={TMP}
 
 [file2]
 url=https://raw.githubusercontent.com/brunocasula/WebUpdate/refs/heads/main/PriceOfferTrader.exe
