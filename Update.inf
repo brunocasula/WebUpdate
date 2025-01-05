@@ -16,6 +16,7 @@ count=2
 [file1]
 url=https://raw.githubusercontent.com/brunocasula/WebUpdate/refs/heads/main/WebUpdateFileDemo.exe
 descr=Application
+localversion=application.exe
 targetdir={TMP}
 
 [file2]
@@ -27,4 +28,4 @@ targetdir={APP}
 appupdate=1
 silentrestart=1
 appname=WebUpdateFileDemo.exe
-appcomps=WebUpdateFileDemo.exe_NEW
+appcomps=WebUpdateFileDemo.cab
