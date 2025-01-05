@@ -1,10 +1,10 @@
 [update]
 date=2/6/2028
 
-[action_old]
+[action]
 msg=This is a file based update
 
-[whatsnew_old]
+[whatsnew]
 file=https://wiki.minervafoods.com/xwiki/bin/view/Tecnologia/Sistemas Internos/Dux/Adm. Produção/Choice/Histórico de Versão/202210261/
 
 [files]
