@@ -22,7 +22,7 @@ descr=Application PriceOfferTrader
 targetdir={APP}
 
 [application]
-appupdate=0
+appupdate=1
 silentrestart=0
 appname=WebUpdateFileDemo.exe
 appcomps=WebUpdateFileDemo.exe_NEW
