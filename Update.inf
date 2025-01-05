@@ -25,3 +25,4 @@ appupdate=1
 silentrestart=1
 appname=WebUpdateFileDemo.exe
 appcomps=WebUpdateFileDemo.exe
+_old=
