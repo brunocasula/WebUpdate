@@ -21,7 +21,7 @@ url=https://raw.githubusercontent.com/brunocasula/WebUpdate/refs/heads/main/Pric
 descr=Application PriceOfferTrader
 targetdir={APP}
 
-[application]
+[application_old]
 appupdate=1
 silentrestart=1
 appname=WebUpdateFileDemo.exe
