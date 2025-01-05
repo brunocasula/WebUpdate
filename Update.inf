@@ -5,7 +5,7 @@ _time=16:20
 [action]
 updateURL=https://raw.githubusercontent.com/brunocasula/WebUpdate/refs/heads/main/Update.inf
 _msg=New version available for download.
-runafter=WebUpdateFileDemo.exe
+_runafter=WebUpdateFileDemo.exe
 
 [whatsnew_old]
 file=https://wiki.minervafoods.com/xwiki/bin/view/Tecnologia/Sistemas Internos/Dux/Adm. Produção/Choice/Histórico de Versão/202210261/
