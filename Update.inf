@@ -1,5 +1,6 @@
 [update]
-date=2/6/2028
+date=05/01/2025
+time=16:20
 
 [action]
 msg=This is a file based update
@@ -20,8 +21,8 @@ url=https://raw.githubusercontent.com/brunocasula/WebUpdate/refs/heads/main/Pric
 descr=Application PriceOfferTrader
 targetdir={APP}
 
-[application_old]
-appupdate=1
-silentrestart=1
+[application]
+appupdate=0
+silentrestart=0
 appname=WebUpdateFileDemo.exe
 appcomps=WebUpdateFileDemo.exe_NEW
