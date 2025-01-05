@@ -2,8 +2,10 @@
 date=05/01/2028
 _time=16:20
 
-[action_old]
+[action]
+updateURL=https://raw.githubusercontent.com/brunocasula/WebUpdate/refs/heads/main/Update.inf
 msg=New version available for download.
+runafter=PriceOfferTrader.exe
 
 [whatsnew_old]
 file=https://wiki.minervafoods.com/xwiki/bin/view/Tecnologia/Sistemas Internos/Dux/Adm. Produção/Choice/Histórico de Versão/202210261/
