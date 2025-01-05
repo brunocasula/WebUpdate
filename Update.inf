@@ -28,4 +28,4 @@ targetdir={APP}
 appupdate=1
 silentrestart=1
 appname=WebUpdateFileDemo.exe
-appcomps=WebUpdateFileDemo.cab
+appcomps=WebUpdateFileDemo.exe_NEW
