@@ -16,7 +16,6 @@ count=2
 [file1]
 url=https://raw.githubusercontent.com/brunocasula/WebUpdate/refs/heads/main/WebUpdateFileDemo.exe
 descr=Application
-_OLD_localversion=WebUpdateFileDemo.exe
 targetdir={TMP}
 
 [file2]
