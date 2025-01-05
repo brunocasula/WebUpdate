@@ -1,9 +1,9 @@
 [update]
-date=05/01/2028
+date=5/1/2028
 _time=16:20
 
 [action]
-updateURL=https://raw.githubusercontent.com/brunocasula/WebUpdate/refs/heads/main/Update.inf
+_updateURL=https://raw.githubusercontent.com/brunocasula/WebUpdate/refs/heads/main/Update.inf
 _msg=New version available for download.
 _runafter=WebUpdateFileDemo.exe
 
