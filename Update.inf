@@ -2,8 +2,8 @@
 date=05/01/2025
 time=16:20
 
-[action]
-msg=This is a file based update
+[action_old]
+msg=New version available for download.
 
 [whatsnew]
 file=https://wiki.minervafoods.com/xwiki/bin/view/Tecnologia/Sistemas Internos/Dux/Adm. Produção/Choice/Histórico de Versão/202210261/
