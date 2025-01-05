@@ -5,7 +5,7 @@ time=16:20
 [action_old]
 msg=New version available for download.
 
-[whatsnew]
+[whatsnew_old]
 file=https://wiki.minervafoods.com/xwiki/bin/view/Tecnologia/Sistemas Internos/Dux/Adm. Produção/Choice/Histórico de Versão/202210261/
 
 [files]
