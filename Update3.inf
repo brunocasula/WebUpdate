@@ -22,7 +22,7 @@ url=https://raw.githubusercontent.com/brunocasula/WebUpdate/refs/heads/main/Pric
 localversion=PriceOfferTrader.exe
 targetdir={app}
 descr=PriceOfferTrader
-mandatory=0
+mandatory=1
 
 [application]
 appupdate=1
