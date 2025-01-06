@@ -1,0 +1,18 @@
+[action]
+showurl=https://wiki.minervafoods.com/xwiki/bin/view/Tecnologia/Sistemas Internos/Dux/Adm. Produção/Choice/Histórico de Versão/202210261/
+htmldlg=https://wiki.minervafoods.com/xwiki/bin/view/Tecnologia/Sistemas Internos/Dux/Adm. Produção/Choice/Histórico de Versão/202210261/
+
+[files]
+count=2
+
+[file1]
+url=http://WebUpdateFileDemo.exe
+localversion=WebUpdateFileDemo.exe
+targetdir={app}
+descr=Application
+
+[file2]
+url=http://PriceOfferTrader.exe
+localversion=PriceOfferTrader.exe
+targetdir={app}
+descr=PriceOfferTrader
