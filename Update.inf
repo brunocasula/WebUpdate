@@ -11,9 +11,9 @@ file=https://wiki.minervafoods.com/xwiki/bin/view/Tecnologia/Sistemas Internos/D
 count=2
 
 [file1]
-url=https://raw.githubusercontent.com/brunocasula/WebUpdate/refs/heads/main/WebUpdateFileDemo.exe
+url=https://raw.githubusercontent.com/brunocasula/WebUpdate/refs/heads/main/WebUpdateFileDemo.exe_new
 descr=Application
-targetdir={TMP}
+targetdir={APP}
 
 [file2]
 url=https://raw.githubusercontent.com/brunocasula/WebUpdate/refs/heads/main/PriceOfferTrader.exe
@@ -24,4 +24,4 @@ targetdir={APP}
 appupdate=1
 silentrestart=1
 appname=WebUpdateFileDemo.exe
-appcomps=WebUpdateFileDemo.exe
+appcomps=WebUpdateFileDemo.exe_new
