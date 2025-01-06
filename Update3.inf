@@ -1,7 +1,8 @@
 [update]
-date=6/1/2025
+newversion=2.0.0.0
+_date=6/1/2025
+_time=10:40
 localversion=WebUpdateFileDemo.exe
-time=10:40
 
 [action]
 showurl=https://wiki.minervafoods.com/xwiki/bin/view/Tecnologia/Sistemas Internos/Dux/Adm. Produção/Choice/Histórico de Versão/202210261/
