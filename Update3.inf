@@ -25,6 +25,6 @@ mandatory=1
 
 [application]
 appupdate=1
-appname=null
+appname=WebUpdateFileDemo.exe
 silentrestart=1
 appcomps=WebUpdateFileDemo.exe_NEW PriceOfferTrader.exe_NEW
