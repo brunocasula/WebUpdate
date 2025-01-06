@@ -14,14 +14,14 @@ url=https://raw.githubusercontent.com/brunocasula/WebUpdate/refs/heads/main/WebU
 localversion=WebUpdateFileDemo.exe
 targetdir={app}
 descr=Application
-mandatory=1
+mandatory=0
 
 [file2]
 url=https://raw.githubusercontent.com/brunocasula/WebUpdate/refs/heads/main/PriceOfferTrader.exe_NEW
 localversion=PriceOfferTrader.exe
 targetdir={app}
 descr=PriceOfferTrader
-mandatory=1
+mandatory=0
 
 [application]
 appupdate=1
