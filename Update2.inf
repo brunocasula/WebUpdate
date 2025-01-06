@@ -5,7 +5,6 @@ localversion=WebUpdateFileDemo.exe
 
 [action]
 showurl=https://wiki.minervafoods.com/xwiki/bin/view/Tecnologia/Sistemas Internos/Dux/Adm. Produção/Choice/Histórico de Versão/202210261/
-htmldlg=https://wiki.minervafoods.com/xwiki/bin/view/Tecnologia/Sistemas Internos/Dux/Adm. Produção/Choice/Histórico de Versão/202210261/
 
 [files]
 count=2
