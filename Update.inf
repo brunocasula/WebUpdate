@@ -14,12 +14,12 @@ count=2
 [file1]
 url=https://raw.githubusercontent.com/brunocasula/WebUpdate/refs/heads/main/WebUpdateFileDemo.exe_new
 descr=Application
-targetdir={APP}
+targetdir={APP}\update
 
 [file2]
 url=https://raw.githubusercontent.com/brunocasula/WebUpdate/refs/heads/main/PriceOfferTrader.exe
 descr=Application PriceOfferTrader
-targetdir={APP}
+targetdir={APP}\update
 
 [application]
 appupdate=1
