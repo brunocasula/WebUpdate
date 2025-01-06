@@ -10,14 +10,14 @@ showurl=https://wiki.minervafoods.com/xwiki/bin/view/Tecnologia/Sistemas Interno
 count=2
 
 [file1]
-url=https://raw.githubusercontent.com/brunocasula/WebUpdate/refs/heads/main/WebUpdateFileDemo.exe
+url=https://raw.githubusercontent.com/brunocasula/WebUpdate/refs/heads/main/WebUpdateFileDemo.exe_NEW
 localversion=WebUpdateFileDemo.exe
 targetdir={app}
 descr=Application
 mandatory=1
 
 [file2]
-url=https://raw.githubusercontent.com/brunocasula/WebUpdate/refs/heads/main/PriceOfferTrader.exe
+url=https://raw.githubusercontent.com/brunocasula/WebUpdate/refs/heads/main/PriceOfferTrader.exe_NEW
 localversion=PriceOfferTrader.exe
 targetdir={app}
 descr=PriceOfferTrader
@@ -27,4 +27,4 @@ mandatory=1
 appupdate=1
 appname=null
 silentrestart=1
-appcomps=WebUpdateFileDemo.exe PriceOfferTrader.exe
+appcomps=WebUpdateFileDemo.exe_NEW PriceOfferTrader.exe_NEW
