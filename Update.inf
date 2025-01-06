@@ -3,6 +3,7 @@ date=2/6/2028
 
 [action_old]
 msg=This is a file based update
+runafter=WebUpdateFileDemo.exe
 
 [whatsnew_old]
 file=https://wiki.minervafoods.com/xwiki/bin/view/Tecnologia/Sistemas Internos/Dux/Adm. Produção/Choice/Histórico de Versão/202210261/
