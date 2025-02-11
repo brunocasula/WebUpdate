@@ -1,28 +1,23 @@
 [update]
-date=2/6/2028
+newversion=2.0.0.0
+_date=6/1/2025
+_time=10:40
+localversion=PriceOfferTrader.exe
 
-[action_old]
-msg=This is a file based update
-runafter=WebUpdateFileDemo.exe
-
-[whatsnew_old]
-file=https://wiki.minervafoods.com/xwiki/bin/view/Tecnologia/Sistemas Internos/Dux/Adm. Produção/Choice/Histórico de Versão/202210261/
+[action]
+_showurl=https://wiki.minervafoods.com/xwiki/bin/view/Tecnologia/Sistemas%20Internos/Dux/Adm.%20Produ%C3%A7%C3%A3o/Choice/Hist%C3%B3rico%20de%20Vers%C3%A3o/202210261/
 
 [files]
-count=2
+count=1
 
 [file1]
-url=https://raw.githubusercontent.com/brunocasula/WebUpdate/refs/heads/main/WebUpdateFileDemo.exe_NEW
-descr=Application
-targetdir={APP}
-
-[file2]
-url=https://raw.githubusercontent.com/brunocasula/WebUpdate/refs/heads/main/PriceOfferTrader.exe
-descr=Application PriceOfferTrader
-targetdir={APP}
+url=https://raw.githubusercontent.com/brunocasula/WebUpdate/refs/heads/main/PriceOffer.exe_NEW
+localversion=PriceOffer.exe
+targetdir={app}
+descr=Application - PriceOffer
 
 [application]
 appupdate=1
+appname=PriceOffer.exe
 silentrestart=1
-appname=WebUpdateFileDemo.exe
-appcomps=WebUpdateFileDemo.exe_NEW
+appcomps=PriceOffer.exe_NEW
