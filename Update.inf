@@ -17,7 +17,7 @@ targetdir={app}
 descr=Application - PriceOffer
 
 [application]
-appupdate=0
+appupdate=1
 appname=PriceOffer.exe
 silentrestart=1
 appcomps=PriceOffer.exe_NEW
